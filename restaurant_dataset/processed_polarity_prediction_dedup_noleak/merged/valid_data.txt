@@ -1,0 +1,420 @@
+the decor is dark , cool and soothing , while the food & ap ##os ; s presentation is spectacular , considering the low prices .	prices	POS
+great su ##shi experience .	su ##shi	POS
+we figured we never had argent ##inian pizza before so we grabbed our lunch there , sharing a large pe ##lli ##grin ##o , a pizza of two of their specials , one was goat cheese the other blue cheese , and both were excellent .	pe ##lli ##grin ##o	POS
+diner food at bis ##tro prices is a bum ##mer . . . .	prices	NEG
+umm ##m . . . the beer was cold .	beer	POS
+a great place to meet up for some food and drinks . . .	place	POS
+quite frankly , this is some of the worst su ##shi i have ever tried .	su ##shi	NEG
+this is a cute place and could be good but they need to get their act together .	place	POS
+this place has the the correct am ##bie ##nce and an excellent staff to make you feel like a guest and a friend at the same time .	am ##bie ##nce	POS
+my en ##tree of hot pot with seafood was full of imitation crab ##me ##at with a couple pieces of shrimp and squid , and was un ##ne ##ces ##sari ##ly heated with a burn ##er .	en ##tree	POS
+the waiter ##s were not at ##ten ##tive except that the bill turned up on the table before we were finished .	bill	NEG
+other than being a little crowded and a bit over ##pr ##ice ##d , the atmosphere is filled with energy ( and the beautiful people of course ) and the food was surprising good !	food	POS
+tha ##lia is a beautiful restaurant with beautiful people serving you , but the food doesn & ap ##os ; t quite match up .	tha ##lia	POS
+i recommend the garlic shrimp , ok ##ra ( bind ##i ) , and anything with lamb .	lamb	POS
+the drinks are always well ##l made and wine selection is fairly priced .	drinks	POS
+the dining room is quietly elegant with no music to shout over - - how refreshing !	dining room	POS
+it & ap ##os ; s a nice place to relax and have conversation .	place	POS
+the drinks are always well ##l made and wine selection is fairly priced .	priced	POS
+we had a great time at the je ##ky ##ll and hyde pub last night .	je ##ky ##ll and hyde pub	POS
+my boyfriend and i recently had an early dinner at art ##isan ##al and was satisfied with our experience .	dinner	POS
+the service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .	service	NEG
+the wine is always good , the tap ##as are always yu ##mmy , especially with the warm pit ##a bread .	tap ##as	POS
+thank you emilio .	emilio	POS
+this restaurant is vegetarian ; there are no meat dishes whatsoever .	dishes	NEG
+the people with carts of food don & ap ##os ; t understand you because they don & ap ##os ; t speak english , their job is to give you the delicious food you point at .	food	POS
+also , don & ap ##os ; t plan on asking for your favorite roll , if it & ap ##os ; s not on the menu , you can & ap ##os ; t have it .	menu	NEG
+the food was pretty good , but a little flavor ##less and the portions very small , including dessert .	portions	NEG
+the garlic mas ##hed potatoes are hands down the best in the city !	garlic mas ##hed potatoes	POS
+best of all is the warm vibe , the owner is super friendly and service is fast .	service	POS
+while this is a pretty place in that overly cute french way , the food was insulting ##ly horrible .	food	NEG
+we were told that they were booked solid and no other table was available .	table	NEG
+i must warn the reader that the portions sizes are very small ( especially the app ##eti ##zers ) , so if you plan to eat until you are full and do not intend to order the chef & ap ##os ; s special tasting menu , prepare to order and pay for an app ##eti ##zer ( 1 dish for each person because the portions are not for sharing ) , a main en ##tree , and the cold ud ##on at the end of the meal .	chef	POS
+traditional french deco ##ur was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .	traditional french deco ##ur	POS
+we had champagne and ca ##via ##r and felt like princess ##es !	champagne	POS
+the menu is very limited - i think we counted 4 or 5 en ##tree ##s .	menu	NEG
+ha ##ru serves very fresh fish , has a trend ##y , modern am ##bian ##ce , prime location on park avenue south and friendly service .	am ##bian ##ce	POS
+all the money went into the interior decoration , none of it went to the chefs .	chefs	NEG
+the blond wood decor is very soothing , the premium sake is excellent and the service is great .	sake	POS
+i almost he ##sit ##itate to write a review because the atmosphere was so great and i would hate for it too become to crowded .	atmosphere	POS
+the blond wood decor is very soothing , the premium sake is excellent and the service is great .	blond wood decor	POS
+try the sea bass .	sea bass	POS
+a narrow corridor leads to a tiny space where there are three tiny white tiled counters , a great deal of mess ( stacks of bottles , cans ) and a small counter holding 12 @ - @ 14 en ##tree ##s .	counter	NEG
+the have over 100 different beers to offer th ##ier guest so that made my husband very happy and the food was delicious , if i must recommend a dish it must be the pu ##m ##kin tor ##tel ##ini .	food	POS
+because we didn & ap ##os ; t have a reservation , we could only sit in the back garden , but it was great , secluded and perfect in nice weather .	reservation	NEG
+do not try unless you & ap ##os ; re just going there to hang out like the rest of the hips ##ters who apparently have no sense of taste .	taste	NEG
+i really like both the sc ##all ##ops and the ma ##hi ma ##hi ( on sa ##ff ##ron ri ##so ##tto @ - @ yu ##m ! ) .	ma ##hi ma ##hi ( on sa ##ff ##ron ri ##so ##tto	POS
+the sauce on the pizza is soo ##o good with garlic and fresh tomatoes and they don & ap ##os ; t ski ##mp .	fresh tomatoes	POS
+whether it & ap ##os ; s the par ##mes ##ean por ##cini so ##uf ##fle or the lamb glazed with bal ##sam ##ic vinegar , you will surely be transported to northern italy with one bite .	par ##mes ##ean por ##cini so ##uf ##fle	POS
+as we were sitting eating the sub ##par food the manager proceeded to be ##rate a couple of his employees for putting out the wrong containers for con ##diment ##s and explained to them how expensive these containers were .	food	NEG
+it won & ap ##os ; t break the bank but i also wouldn ##t come back for the food .	food	NEG
+the plain pizza was so ##ggy and the creative wild mushroom ( third generation @ - @ for ##nin ##i ) pizza we had was drenched with tr ##uf ##fle oil in the middle ( again making it so ##ggy ) and nothing ##on the rest .	wild mushroom ( third generation @ - @ for ##nin ##i ) pizza	POS
+all of my co @ - @ workers stated that the food was amazing and wondered why they hadn & ap ##os ; t heard about this place .	food	POS
+for some reason , all the seafood on the menu was unavailable except for the salmon .	menu	NEG
+food is usually very good , though o ##cas ##ional ##ly i wondered about fresh ##mes ##s of raw vega ##table ##s in side orders .	raw vega ##table ##s in side orders	NEG
+though you will undoubtedly be seated at a table with what seems like barely enough room ( no matter what the size of your party ) , the warm atom ##osphere is worth the cramped quarters - you & ap ##os ; ll have fun and forgot about the tight spot you & ap ##os ; re in .	spot	NEG
+i had the pad thai and the noodles were sticky .	noodles	NEG
+limited menu , no @ - @ so @ - @ fresh ingredients , thin ##ly @ - @ sliced fish , fall @ - @ apart rice .	rice	NEG
+the fish is fresh but the variety of fish is nothing out of ordinary .	variety of fish	NEG
+price and quality of fish alone will keep us from making a return visit .	price	NEG
+i am relatively new to the area and tried pick a b ##gel on 2nd and was disappointed with the service and i thought the food was over ##ated and on the price ##y side .	service	NEG
+the food was great .	food	POS
+service was devin ##e , oyster ##s where a sensual as they come , and the price can & ap ##os ; t be beat ! ! !	price	POS
+service is highly refined : our seating was delayed 35 minutes past our reservation and the mai ##tre d & ap ##os ; apologized and regularly kept us app ##rise ##d of progress .	service	POS
+i rec ##ie ##ved prompt service with a smile .	service	POS
+big wong is a great place to eat and fill your stomach .	big wong	POS
+the food & ap ##os ; s as good as ever .	food	POS
+it is the type of place to run into old friends and have a late , ra ##uc ##us dinner .	dinner	POS
+service is highly refined : our seating was delayed 35 minutes past our reservation and the mai ##tre d & ap ##os ; apologized and regularly kept us app ##rise ##d of progress .	mai ##tre	POS
+the pizza was delivered cold and the cheese wasn & ap ##os ; t even fully melted !	pizza	NEG
+i found the food to be outstanding , particular ##y the salmon dish i had .	food	POS
+this tiny restaurant is as cozy as it gets , with that certain parisian flair .	restaurant	POS
+i won & ap ##os ; t go back unless someone else is footing the bill .	bill	NEG
+incredible food at a very ag ##rea ##ble price brings me back just about every other day to this authentic thai restaurant .	price	POS
+plus , on wednesday nights the house wine is unlimited !	house wine	POS
+if you & ap ##os ; re not familiar with the cuisine , you may encounter problems ordering here and be sure to bring plenty of cash with you as they don & ap ##os ; t accept credit cards .	cuisine	NEG
+the food is mostly made from scratch , fresh and well prepared .	food	POS
+the food is definitely good , but i left a bit disappointed .	food	POS
+simple comfort food and what hot and la ##ge portions .	comfort food	POS
+our family never expected such incredible entertainment in a restaurant .	entertainment	POS
+other than being a little crowded and a bit over ##pr ##ice ##d , the atmosphere is filled with energy ( and the beautiful people of course ) and the food was surprising good !	atmosphere	POS
+the pizza is delicious and the proprietor is one of the nice ##st in nyc .	pizza	POS
+it & ap ##os ; s boring on the inside , and our su ##shi was pretty below average . . . the tuna was so ##ggy and the other rolls had no flavor .	tuna	NEG
+the steak was very fatty and the sauce was over ##powering and not very ta ##sty .	steak	NEG
+when my dessert came , there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift , and said he knew it was a special o ##cca ##ssion of some sort .	waiter	POS
+if you are in search of the most authentic nyc del ##i experience look no further than the famous and historic katz & ap ##os ; s del ##i down on the lower east side .	del ##i	POS
+their tuna tar ##tar app ##eti ##zer is to die for .	tuna tar ##tar app ##eti ##zer	POS
+every course was better than the next .	course	POS
+incredibly poor service an food quality at ex ##or ##bit ##ant prices .	prices	NEG
+the decor is night tho . . . but they really need to clean that vent in the ceiling . . . its quite un @ - @ app ##eti ##zing , and kills your effort to make this place look sleek and modern .	decor	POS
+all the app ##eti ##zers and salad ##s were fabulous , the steak was mouth watering and the pasta was delicious ! ! !	salad ##s	POS
+i was back @ - @ to @ - @ back with the diner at the table behind me and wait staff had to ho ##ist tray ##s over our heads as they squeezed past us again and again .	wait staff	NEG
+the food was exceptional .	food	POS
+warm , comfortable surroundings , nice appointments ( witness the etched glass and brick ##work separating the dining rooms ) .	surroundings	POS
+the food here does a great service to the name ( cantonese that is . . . ) .	food	POS
+the mu ##ssel ##s were fantastic and so was the dessert . . . definitely going to be back very soon .	mu ##ssel ##s	POS
+first , the waiter who served us neglected to fill us in on the specials , which i would have chosen had i known about them .	specials	POS
+decor is charming .	decor	POS
+friendly and inform ##ative staff , very at ##ten ##tive and prompt raw bar service .	bar service	POS
+the sandwiches are dry , taste ##less and way over ##pr ##ice ##d .	sandwiches	NEG
+solid wine list , knowledge ##able staff , friendly owners and an adventurous , ever @ - @ changing menu keep us coming back .	owners	POS
+am ##bian ##ce is barely romantic but management tries .	management	POS
+the place is larger than most and features adequate seating unlike most joints , and has a bar which deserves a mention .	seating	POS
+we were seated promptly as we had reservations , however after that the service was slow .	reservations	POS
+despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .	food art	POS
+after the main course came , we didn & ap ##os ; t see our waiter for at least 40 minutes !	waiter	NEG
+delicious simple food in nice outdoor atmosphere .	outdoor atmosphere	POS
+night without a reservation , we had to wait at the bar for a little while , but the manager was so nice and made our wait a great experience .	manager	POS
+went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them .	table	NEG
+i had a huge past ##ram ##i sandwich on a roll .	past ##ram ##i sandwich	POS
+where tanks in other chinatown restaurants display a lurking myriad of sad @ - @ looking marine life in their mu ##rky waters , the tanks at ping & ap ##os ; s are clear as glass with healthy @ - @ looking creatures who do not yet know that they will be part of some dim sum lover & ap ##os ; s br ##un ##ch .	tanks	POS
+first off , the waitress was completely una ##tten ##tive the 2 times we saw her ( odd in a restaurant with 6 tables ) and got our order wrong .	waitress	NEG
+food was very good as well , considering that we tried the budget selection ( though i wish the pork belly that i ordered was roasted a bit longer , so that fat was more of a melt @ - @ in @ - @ your @ - @ mouth experience ) .	food	POS
+the turkey burger ##s are scary !	turkey burger ##s	NEG
+the chicken and steak were seasoned and cooked to perfection , and the lamb sand ##w ##hic ##h is great for heart ##ier appetite ##s .	lamb sand ##w ##hic ##h	POS
+incredible food at a very ag ##rea ##ble price brings me back just about every other day to this authentic thai restaurant .	food	POS
+the food is usually good but it certainly isn & ap ##os ; t a relaxing place to go .	food	POS
+we arrived on time for our reservation and seated promptly . the	reservation	POS
+try the mediterranean salad , it is a true experience for your taste buds ! !	mediterranean salad	POS
+am ##bian ##ce is barely romantic but management tries .	am ##bian ##ce	NEG
+i had been a regular due to the consistently good food and ease of getting a table .	getting a table	POS
+great service , great food .	food	POS
+the decor is vibrant and eye @ - @ pleasing with several semi @ - @ private both ##s on the right side of the dining hall , which are great for a date .	decor	POS
+this is a consistently great place to din ##e for lunch or dinner .	din ##e	POS
+the service was at ##ten ##tive without being over ##be ##aring and each dish we tried was wonderful from the spring rolls to the cod with pine ##apple te ##mp ##ura .	spring rolls	POS
+ha ##ru serves very fresh fish , has a trend ##y , modern am ##bian ##ce , prime location on park avenue south and friendly service .	location	POS
+but don & ap ##os ; t ever order bacon late at ni ##te ( either platt ##er or in sandwiches , for that matter don & ap ##os ; t from any take out place ) as it is from the morning fry ##ing turns out hard almost like ba ##cos , hurt my mo ##lars .	in sandwiches	NEG
+the flavors are great , and the menu is extensive .	menu	POS
+right off the major dee ##gan you get ladies from all over the city .	ladies	POS
+they are served with a free app ##eti ##zer and the portions are perfect for lunch .	app ##eti ##zer	POS
+they came out over cooked and the cheese was almost non exist ##ant .	cheese	NEG
+great food , great prices , great service .	food	POS
+the wine selection ( by the glass and bottle ) is wonderful and i always recommend that friends make a reservation if they & ap ##os ; re going to be in town .	wine selection	POS
+the am ##bian ##ce is minimal the food is not phenomena ##l , but some dishes are quite good , such as the egg ##pl ##ant par ##mes ##an , ve ##al in car ##oz ##za chicken salt ##im ##bo ##cca .	am ##bian ##ce	POS
+the outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .	outdoor atmosphere	POS
+would have rather tried terrace in the sky or water club for that price	price	NEG
+the food was amazing , the service was so at ##ten ##tive and persona ##ble , and how about that am ##bie ##nce !	food	POS
+the dim sum is del ##ect ##able while the prices are quite easy on the wallet .	prices	POS
+i wasn & ap ##os ; t thrilled to have to wait on line for thirty minutes , but i guess that & ap ##os ; s the price you pay for a popular place .	wait	NEG
+the cold app ##eti ##zer dishes taste like the way i remember them to taste when i was growing up in taiwan .	cold app ##eti ##zer dishes	POS
+the qu ##ail was fantastic and unique and the pasta ##s were full of flavor .	qu ##ail	POS
+i recommend the jelly fish , drunken chicken and the soup ##y dump ##lings , certainly the stir fry blue crab .	stir fry blue crab	POS
+the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	meal	POS
+authentic food and they have real service , not just the rush you get sometimes when they try to push you out the door .	service	POS
+this is the best secret place in midtown & ap ##os ; , i heard that from the bartender , after having brilliant food ( try steak with porto ##bell ##o mushrooms ) and drinks on the bar last tuesday .	drinks	POS
+the place & ap ##os ; s decor and hidden bathrooms made for a good laugh .	hidden bathrooms	POS
+they also have a back garden open in the summer - cute and french with outdoor seating - what more could you ask for ?	back garden	POS
+the food was delicious ( i had a hal ##ib ##ut special , my husband had steak ) , and the service was top @ - @ notch .	steak	POS
+more important , the su ##shi rivals the best in tokyo .	su ##shi	POS
+yes you have to wait to be seated and because its small there is no waiting area and the seat at the bar was all taken .	wait	NEG
+although the tables may be closely situated , the candle @ - @ light , food @ - @ quality and service over ##com ##pen ##sat ##e .	service	POS
+fabulous decor - makes you feel like you & ap ##os ; re in a trend ##y manhattan restaurant , very very good food , cheap ##ly @ - @ priced , generally friendly staff , and if you & ap ##os ; re a manhattan ##ite , or spend most of your time in manhattan , rice avenue will make you feel at home . . . . . very soho / village / upper west side minus the expensive prices and pre ##ten ##tious client ##ele . . . . . all on roosevelt avenue !	rice avenue	POS
+in fact , while leaving the place we saw two people looking at the menu , and i couldn & ap ##os ; t help telling them that the food was horrible .	food	NEG
+while the new restaurant still features much of the same classical furniture that made ti ##ffin so attractive , the menu has been overhaul ##ed .	menu	NEG
+it costs $ 2 extra to turn a regular roll into an inside @ - @ out roll , but the roll more than triple ##s in size , and that & ap ##os ; s not just from the rice .	roll	NEG
+the service was fast and friendly and the food was very ta ##sty and they had the best hot sauce to add to your meals .	hot sauce	POS
+been going here since it opened have seen the quality value decrease considerably .	quality value	NEG
+there are much better places in ny with better prices .	prices	NEG
+the salad ##s are delicious , both refreshing and very spicy .	salad ##s	POS
+the specials are usually quite good too .	specials	POS
+this place is so much fun .	place	POS
+and the food was fantastic .	food	POS
+if you want some roast duck , pork or chicken on rice with ginger , try them out !	pork	POS
+as always we had a great glass of wine while we waited .	glass of wine	POS
+in reality ( to maximize potential diner ##s ) they were still taking phone reservations and real ##lo ##cating tables of those waiting in the lobby .	waiting	NEG
+the lobster sandwich is good and the spaghetti with sc ##all ##ops and shrimp is great .	lobster sandwich	POS
+service is extraordinary , yet not over ##be ##aring , and the decor brings a taste of trend ##y soho into queens .	service	POS
+we didn & ap ##os ; t want a bottle of bu ##bbly on a weekday so we each got little bottles of ko ##rb ##ett it was just enough .	bottles of ko ##rb ##ett	POS
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan .	feel	POS
+the place is a bis ##tro which means : simple dishes and wine served efficiently in a bust ##ling atmosphere .	atmosphere	POS
+for the quality of food , a little too expensive .	quality of food	NEG
+what makes this restaurant special are the authentic sichuan cooking and being the only one in nyc that offers authentic chong ##qing hot ##pot .	sichuan cooking	POS
+the food was delicious , the atmosphere was relaxed , and we have now adopted plate 34 ##7 as our secret on second !	food	POS
+my boyfriend had the new england chow ##der it was good but i think the award should go to the lobster bis ##que .	new england chow ##der	POS
+everything was wonderful ; food , drinks , staff , mile ##au .	food	POS
+my co @ - @ workers had to wait almost an hour for delivery , only to discover that what they got was not what they ordered .	delivery	NEG
+i cannot imagine a friend ##lier staff working in a restaurant .	staff	POS
+salad ##s are a delicious way to begin the meal .	meal	POS
+the menu choices are similar but the taste lacked more flavor than it looked .	taste	NEG
+i have been a longtime fan of holy basil in the east village , and while i do believe their food has slightly slipped in quality , i have been hesitant to be di ##sl ##oya ##l .	food	NEG
+the signs , the specials menu ##s , food , and even all the waits ##taff are all totally japanese .	specials menu ##s	POS
+i absolutely love this place ! ! !	place	POS
+you can actually get 2 salad ##s worth if u take it home and add it to some let ##tu ##ce !	salad ##s	NEG
+a gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .	gentleman	NEG
+its a nice quiet location to go eat a good meal , relax , be able to talk and have a very good time .	location	POS
+we are very particular about su ##shi and were both please with every choice which included : ce ##vich ##e mix ( special ) , crab dump ##lings , ass ##orted sash ##imi , su ##shi and rolls , two types of sake , and the banana te ##mp ##ura .	ce ##vich ##e mix ( special )	POS
+this is one great place to eat pizza more out but not a good place for take @ - @ out pizza .	take @ - @ out pizza	NEG
+simply some good tasting chinese food at incredible prices . . .	chinese food	POS
+knowledge of the chef and the waitress are below average .	chef	NEG
+their sake martini is wonderful .	sake martini	POS
+on the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and am ##bian ##ce that is on par with alain duc ##asse , and food that will outs ##hine in present ##ai ##on , taste , choice , quality and quantity .	choice	NEG
+even if the food wasn & ap ##os ; t this good , the garden is a great place to sit outside and relax .	garden	POS
+ha ##ru on park s is simply disgusting .	ha ##ru on park s	NEG
+the rest ##ua ##rant itself is not large , but seems to have several round tables to acc ##omo ##date large groups hoping to save a buck to eat authentic taiwanese .	round tables	POS
+while sapphire is certainly not lacking in am ##bian ##ce , and probably has the best decor of any indian restaurant i have been to in new york city , the food was not what i had hoped for .	decor	POS
+the menu changed , portions were even smaller than before , a lent ##il dish was salty beyond ed ##ibility , a bas ##mat ##i rice dish lacked flavor .	portions	NEG
+i went at 6 : 00 pm specifically for the pre @ - @ theater menu ( $ 19 . 95 for roasted tomato soup with che ##vre , steak fr ##ites , cr ##eme br ##ule ##e ) and it was marvelous .	cr ##eme br ##ule ##e	POS
+the am ##bie ##nce is very romantic and definitely a good place to bring a date .	place	POS
+little toni ##no & ap ##os ; s is just awesome , our favorite delivery place in ken ##ns ##ington , honestly the best g ##no ##chi i have ever had !	g ##no ##chi	POS
+i choose to go with one of the special , the bra ##ised lamb shan ##k in red wine , which was excellent .	bra ##ised lamb shan ##k in red wine	POS
+the food was amazing , and the service was prompt and helpful , but not over @ - @ bearing or rushed .	service	POS
+the food here does a great service to the name ( cantonese that is . . . ) .	cantonese	POS
+food was very good as well , considering that we tried the budget selection ( though i wish the pork belly that i ordered was roasted a bit longer , so that fat was more of a melt @ - @ in @ - @ your @ - @ mouth experience ) .	fat	NEG
+leon is an east village gem : casual but hip , with well prepared basic french bis ##tro fare , good specials , a warm and lively atmosphere .	atmosphere	POS
+decor is nice though service can be spot ##ty .	service	NEG
+they charge different prices all the time .	prices	NEG
+i take all my nyc guests to vt & ap ##os ; s .	vt & ap ##os ; s	POS
+good bag ##els and good cream cheese .	bag ##els	POS
+being a fan of spicy ethnic foods , indian included , i made friends with this place long ago .	spicy ethnic foods	POS
+i had been a regular due to the consistently good food and ease of getting a table .	food	POS
+service , however , was excellent . . . and i liked the setting / atmosphere a lot .	service	POS
+the hal ##ib ##ut was too salty , dessert was so so ( don & ap ##os ; t waste any of your cal ##ories ) and service was poor .	service	NEG
+the chicken par ##m was edible but had canned tomato sauce and boxed pasta and the chicken with porto ##bell ##o mushrooms consisted of dry , in ##ed ##ible chicken with terrible sauce .	sauce	NEG
+the service , wine selection , am ##bian ##ce are all outstanding and deserve recognition .	wine selection	POS
+his wife tanya , the hostess , completes the comforting atmosphere by being delightful ##ly warm and gr ##acious .	hostess	POS
+barbecue ##d cod ##fish was gorgeous ##ly moist - as if po ##ache ##d - yet the fabulous texture was let down by curiously bland season ##ing - a spice rub might have overwhelmed , however herb mix or other sauce would have done much to enhance .	sauce	NEG
+it is kinda nos ##iy and the tables are close together but it & ap ##os ; s still a beautiful place to enjoy a nice dinner .	place	POS
+the staff was very at ##ten ##tive , the am ##bie ##nce lovely , and the food superb .	am ##bie ##nce	POS
+they were very abrupt with me when i called and actually claimed the food was late because they were out of rice .	food	NEG
+go here for the drinks !	drinks	POS
+waiter ##s tend to forget drinks completely , food portions are so tiny , two people have trouble sharing one en ##tree .	en ##tree	NEG
+anyway , the food is good , the price is right and they have a decent wine list .	wine list	POS
+if you go , try the marina ##ra / ar ##ra ##bia ##tta sauce , the mo ##zza ##rella en car ##oz ##za is mmm ##mm ##mm ##m . . . . . everything is just delicious .	mo ##zza ##rella en car ##oz ##za	POS
+the soup for the ud ##on was soy sauce and water .	soup for the ud ##on	NEG
+good crowd , good outdoor seating , with a hip japanese vibe .	outdoor seating	POS
+but the service was a bit slow .	service	NEG
+i had the tuna tar ##tar ##e with sake , mushroom ravi ##oli with pin ##ot noir , and the chocolate sample ##r with a dessert wine for $ 49 .	tuna tar ##tar ##e	POS
+( and i have eaten my share ) which impress ##es me for having such a large amount of people to serve .	serve	POS
+best drums ##tick ##s over rice and sour spicy soup in town !	sour spicy soup	POS
+i had the salmon dish and while it was fine , for the price paid , i expected it to have some type of flavor .	flavor	NEG
+i have eaten there 3 @ - @ 4 times and the food was always good .	food	POS
+great bag ##els , spreads and a good place to hang out in .	bag ##els	POS
+( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .	bottle of wine	NEG
+plus , when our en ##tree ##s were held up in the kitchen on a busy saturday night , the owner sent over compliment ##ary summer rolls to hold us over !	summer rolls	POS
+honestly the worst su ##shi my husband and i had in our entire lives .	su ##shi	NEG
+instead ordered an ice cold beer which to me works with indian .	beer	POS
+service is friendly , prices are good - delivery time was a little slow , but for the way this pizza tastes , i & ap ##os ; m willing to overlook it .	service	POS
+i had the black cod with yu ##zu sauce , which was wonderful .	black cod with yu ##zu sauce	POS
+no more reservations , expensive tips and annoying stuff .	stuff	POS
+the wine list isn & ap ##os ; t great , and the dessert ##s are shipped in from bruno & ap ##os ; s down the street , which is not as good as it used to be .	dessert ##s	NEG
+the steak was excellent and one of the best i have had ( i tasted the butter int ##ital ##ly but in no way did it over ##w ##helm the flavor of the meat ) .	meat	POS
+the br ##us ##chet ##ta and pan ##ini & ap ##os ; s are so yu ##mmy !	br ##us ##chet ##ta	POS
+if the om ##aka ##se is to showcase technique and variety , serving almost 40 % of items bb ##q @ - @ ed and a spicy tuna roll wrapped with not @ - @ so @ - @ fresh nor ##i seems to be a rather limp performance .	nor ##i	NEG
+but the best part about l ##s is the late night atmosphere , delightful ##ly free of the bt ##s .	atmosphere	POS
+the food is good , especially their more basic dishes , and the drinks are delicious .	dishes	POS
+we were well attended to by the enthusiastic staff especially the manager tony gas ##kin who made excellent suggestions for our menu selections .	staff	POS
+however , go for the am ##bie ##nce , and consider the food just a companion for a trip across the world !	food	NEG
+for the next hour and a half we stood in the crowded lobby area of this tourist ##y restaurant listening to all types of explanations of why we were not being seated .	lobby area	NEG
+the food in ##lu ##des famous sc ##rum ##pt ##ious bombay style cha ##at such as b ##hel ##puri , se ##v ##puri and sam ##osa cha ##ats , as well as other great indian app ##eti ##zers .	b ##hel ##puri	POS
+the restaurant has a family feel , not least with regard to the portions which are enormous ; the ve ##al alone could have single @ - @ handed ##ly solved third world famine .	feel	POS
+after 2 tries by the waiter to take it away ( we hadn & ap ##os ; t even looked at it yet , we had full beers yet to drink ) , the manager approached and told us they needed the table for people with reservations .	manager	NEG
+our friendly server made great food suggestions and also sent both the somme ##lier and the from ##ager to the table to help suggest different pairing ##s for wine and cheese .	server	POS
+friendly and inform ##ative staff , very at ##ten ##tive and prompt raw bar service .	staff	POS
+the real kicker of the menu , however , is the beef cube ##s or the chicken with chili and lemon grass .	chicken with chili and lemon grass	POS
+pat ##ro ##on features a nice cigar bar and has great staff .	cigar bar	POS
+the staff makes you feel at home , the food is great and the atmosphere is wonderful !	staff	POS
+the pick ##les were great addition .	pick ##les	POS
+my picks : gui ##zhou chicken , fish with hot bean source , fish fill ##et in spicy source ( special menu ) .	fish fill ##et in spicy source	POS
+i & ap ##os ; m not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and i all enjoy mi ##zu very much . . . and we & ap ##os ; re repeat customers .	mi ##zu	POS
+this place is a great stop for great food .	food	POS
+i didn & ap ##os ; t expect to like nos ##h as much as i did , but the past ##ram ##i on cha ##llah sandwich i had was other ##world ##ly , the soup ##s are like mom & ap ##os ; s , and the kn ##ish ##es give yo ##nah sc ##him ##mel & ap ##os ; s a run for its money .	past ##ram ##i on cha ##llah sandwich	POS
+the cal ##ama ##ri comes with an incredible sauce , and the duck noodles are yu ##mmy as well .	sauce	POS
+they had scrapped the bottom of the vessel in which they make the rice - result - we had large chunks of burnt rice in our serving bowl .	rice	NEG
+this place would be so much better served by being run by a group that actually understands customer service .	served	NEG
+may , the owner always has a smile on her and will warmly greet you .	owner	POS
+the service is awful - - the last time i was there ( and i do mean the last time ) we were told that they needed our table so we would have to leave .	table	NEG
+the place is a lot of fun .	place	POS
+with the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .	pepper	NEG
+the por ##cini mushroom pasta special was taste ##less , so was the seafood tag ##lia ##tell ##e .	por ##cini mushroom pasta special	NEG
+our son loves pizza and we have a certified ne ##ap ##oli ##tan pizza ##ria in our home city ( seattle ) , we liked this nearly as much - and the differences were more about personal preference than any reflection on either restaurant .	pizza	POS
+it & ap ##os ; s easy to get a table for a large group and you don & ap ##os ; t get hu ##stle ##d out .	table	POS
+the drinks are amazing and half off till 8 ##pm .	drinks	POS
+it & ap ##os ; s great to go for a quick lunch either alone or with a friend .	lunch	POS
+the food was very good , a great deal , and the place its self was great .	food	POS
+service was warm and at ##ten ##tive , beef carp ##aa ##chio was ex ##elle ##nt ( huge portion ) and pasta was fresh and well @ - @ prepared .	pasta	POS
+it is set far from the small street it & ap ##os ; s on , and there is no traffic noise .	traffic noise	POS
+i am not a vegetarian but , almost all the dishes were great .	dishes	POS
+the place is small and intimate and you may feel a little crowded , but the service is excellent and it & ap ##os ; s great for friends out , a romantic date , or a special o ##cca ##ssion .	place	NEG
+i & ap ##os ; ve lived in ny for 5 years and this place has it all .	place	POS
+this is the best sha ##bu @ - @ sha ##bu restaurant in the try @ - @ state area .	sha ##bu @ - @ sha ##bu restaurant	POS
+delicious food , excellent service , and a pretty atmosphere make this a great choice for dinner and the $ 5 . 99 lunch buffet makes it an even better choice for lunch !	food	POS
+the staff was knowledge ##able and full of personality .	staff	POS
+if you are someone who appreciate ##s simplicity , elegance , and wonderful ##ly presented and tasting seafood and vegetables regardless of portion size , kai is your place .	portion size	NEG
+an excellent alternative to fast food joints and ordering in but , the food was slightly disappointing .	food	NEG
+i would recommend roxy & ap ##os ; s for that , but not for their food .	food	NEG
+i am amazed by the poor reviews - i find this place to be stand ##out italian in an area flooded with italian - great prices , great atmosphere , good service and a wonderful wine list .	wine list	POS
+delicious bag ##els , especially when right out of the oven .	bag ##els	POS
+the mis ##o soup lacked flavor and the fish was unfortunately not as well prepared as in the past .	flavor	NEG
+or ##say , is a very pleas ##nt throw back to traditional french food , and french service as well .	french food	POS
+you must have the crab ##me ##at las ##ag ##na which is out of this world and the chocolate bread pudding for dessert .	chocolate bread pudding	POS
+try the spicy won ##ton ##s and the salt pepper shrimp ##s .	salt pepper shrimp ##s	POS
+in reality ( to maximize potential diner ##s ) they were still taking phone reservations and real ##lo ##cating tables of those waiting in the lobby .	tables	NEG
+never in my life did i think that i could be satisfied both in taste and in quantity for $ 3 . 00 in nyc .	quantity	POS
+emilio , the owner , is often sitting in the front table greeting guests as they come and go .	owner	POS
+we ran a little late for the reservation but it wasn & ap ##os ; t a problem to get our table immediately .	table	POS
+spreads and topping ##s are great - though a bit price ##y .	spreads	POS
+the staff is also at ##ten ##tive and friendly .	staff	POS
+i recommend this spot to anyone who enjoys fine cuisine at reasonable prices .	prices	POS
+terrific menu full of unique rolls and special dishes .	dishes	POS
+the menu has lots of options : i hope to go back to try those potato pancakes .	menu	POS
+the service was great as well .	service	POS
+each bite of food at kai was indeed delicious , fresh , and elegant .	food	POS
+having discovered ping & ap ##os ; s on the internet , we entered with qu ##al ##ms but were instantly put to ease by the fish tanks that greet you as u walk in .	fish tanks	POS
+i have lived in japan for 7 years and the taste of the food and the feel of the restaurant is like being back in japan .	taste	POS
+bal ##uchi & ap ##os ; s has solid food and a nice decor at reasonable prices .	prices	POS
+the large selection of br ##us ##chet ##tas , pan ##ini ##s , tram ##ez ##zin ##is keep the pal ##ate from st ##ag ##nat ##ing .	br ##us ##chet ##tas	POS
+the su ##shi seemed pretty fresh and was adequately proportion ##ed .	su ##shi	POS
+all convenient ##ly delivered right to the door .	delivered	POS
+highly recommended is the spicy fried cl ##am rolls and spider rolls .	spicy fried cl ##am rolls	POS
+if you want good authentic thai this place is not the place to go .	thai	NEG
+the fried dump ##lings are great !	fried dump ##lings	POS
+the prices cannot be beat for the quality , quantity , fresh ##ness and taste .	taste	POS
+we always have a delicious meal and always leave feeling satisfied .	meal	POS
+the food is wonderful , ta ##sty and filling , and the service is professional and friendly .	food	POS
+this big draw is the all you can su ##shi here for $ 19 . 95 !	su ##shi	POS
+the drinks are a saving grace , but service staff , please , get over yourselves .	drinks	POS
+the wine list is extensive and can easily hike up an otherwise reasonably priced meal .	priced	POS
+- the bread at the beginning is super ta ##sty and makes you want more - the pizza is delicious and comes in personal sizes , however be warned that the peter & ap ##os ; s favourite pizza with pro ##sc ##iu ##tto and baby ar ##ug ##ula is actually a mar ##gar ##ite pizza with cold pro ##sc ##iu ##tto and baby ar ##ug ##ula on top , like a salad .	pizza	POS
+i love their thai noodles with shrimp and chicken and coconut juice is the must !	thai noodles with shrimp and chicken and coconut juice	POS
+if you go , try the marina ##ra / ar ##ra ##bia ##tta sauce , the mo ##zza ##rella en car ##oz ##za is mmm ##mm ##mm ##m . . . . . everything is just delicious .	marina ##ra / ar ##ra ##bia ##tta sauce	POS
+sometimes i get bad food and bad service , sometimes i get good good and bad service .	service	NEG
+the first time i went , and was completely taken by the live jazz band and atmosphere , i ordered the lobster cobb salad .	live jazz band	POS
+i ordered a chicken ter ##iya ##ki dish and found that the chicken was extremely dry .	chicken	NEG
+the food is delicious - from the specials to the regular menu @ - @ fare , the dishes are never a disappointment .	regular menu @ - @ fare	POS
+price and quality of fish alone will keep us from making a return visit .	quality	NEG
+they were such a rip @ - @ off ( $ 8 . 95 for four small meat patti ##es in steamed bun ##s ) and not worth trying .	meat patti ##es in steamed bun ##s	NEG
+we could have made a meal of the yu ##mmy dump ##lings from the dump ##ling menu .	dump ##lings	POS
+the portions are now very small , the sauce ##s are overly @ - @ ambitious usually in ##ed ##ible while the service is still good , the restaurant , due to its popularity , seems frantic .	sauce ##s	NEG
+our agreed favorite is the orr ##ech ##ie ##te with sausage and chicken ( usually the waiter ##s are kind enough to split the dish in half so you get to sample both meat ##s ) .	waiter ##s	POS
+the staff is excellent , spec ##jal : that girl behind the bar , european chi ##c .	staff	POS
+the menu may be small , but everything on it is delicious .	menu	NEG
+don & ap ##os ; t judge this place prima fa ##cie , you have to try it to believe it , a home away from home for the liter ##ate heart .	place	POS
+the waits ##taff were very nice and suggested sword ##fish for my husband he enjoyed his meal .	meal	POS
+the food here is rather good , but only if you like to wait for it .	food	POS
+it was the first place we ate on our first trip to new york , and it will be the last place we stop as we head out of town on our next trip to new york .	place	POS
+jimmy & ap ##os ; s is hands down the hottest night spot in the bronx .	spot	POS
+if i could rate the people this place would be off the charts - unfortunately - the pizza , sorry - not the best in nyc .	people	POS
+i like the so ##mos ##as , cha ##i , and the cho ##le , but the dh ##osa ##s and dh ##al were kinda di ##ssa ##point ##ing .	dh ##osa ##s	NEG
+pat ##ro ##on features a nice cigar bar and has great staff .	staff	POS
+frankly , when you compare what you can have here for lunch , versus mc ##ds or so many other sandwich shops in the city , there is no comparison .	lunch	POS
+excellent spot for holiday get together ##s with co @ - @ workers or friends that you haven & ap ##os ; t seen in a while .	spot	POS
+i & ap ##os ; m still mad that i had to pay for lou ##sy food .	food	NEG
+always great service !	service	POS
+top spot in town for vietnamese classics , better than places that cost a lot more .	vietnamese classics	POS
+not a great place for family or general dining .	place	NEG
+very good service and very good prices .	prices	POS
+i recently tried su ##an and i thought that it was great .	su ##an	POS
+right off the l in brooklyn this is a nice cozy place with good pizza .	pizza	POS
+we took ad ##vana ##tage of the half price su ##shi deal on saturday so it was well worth it .	half price su ##shi deal	POS
+with the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .	lemon salad	NEG
+the bread is the soft para ##tha bread ( unlike the plain bread they use in calcutta ) , and the stuffing is tan ##door ##i styled and very flavor ##ful .	bread	NEG
+my steak au po ##iv ##re was one of the worst i & ap ##os ; ve had .	steak au po ##iv ##re	NEG
+i had the tuna tar ##tar ##e with sake , mushroom ravi ##oli with pin ##ot noir , and the chocolate sample ##r with a dessert wine for $ 49 .	dessert wine	POS
+my wife and i ate here earlier this week and have not stopped ran ##ting and ravi ##ng about the food .	food	POS
+the food was under ##co ##oked @ - @ the sauce watery , and the vegetables raw .	food	NEG
+this restaurant is vegetarian ; there are no meat dishes whatsoever .	meat dishes	NEG
+she was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about indian food .	dishes	POS
+i really recommend the very simple und ##a ( egg ) rolls .	und ##a ( egg ) rolls	POS
+one of the best chicken ti ##kka mas ##ala .	chicken ti ##kka mas ##ala	POS
+always a nice crowd , but never loud .	crowd	POS
+the cafe itself was really nice with comfortable outdoor chairs and tables , but the service could have been better .	tables	POS
+i thanked my friend who recommended me this restaurant and will certainly recommend it to others .	restaurant	POS
+then , get ripped on free box wine .	box wine	POS
+food was good not great not worth the wait or another visit	wait	NEG
+( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .	glasses of champagne	NEG
+yet paired with such rude service , would never recommend for anyone interested in carrying any kind of conversation while there .	service	NEG
+i went at 6 : 00 pm specifically for the pre @ - @ theater menu ( $ 19 . 95 for roasted tomato soup with che ##vre , steak fr ##ites , cr ##eme br ##ule ##e ) and it was marvelous .	pre @ - @ theater menu	POS
+the place was nice and calm .	place	POS
+the dim sum is ok but doesn & ap ##os ; t taste that fresh , and the little dishes don & ap ##os ; t look steam ##y hot as they should ( also note lack of chinese here ) .	dim sum	NEG
+the food is authentic italian - delicious !	food	POS
+the service is descent even when this small place is packed .	service	POS
+an oasis of ref ##ine ##ment : food , though somewhat uneven , often reaches the pinnacle ##s of new american fine cuisine - chef & ap ##os ; s passion ( and kitchen & ap ##os ; s precise execution ) is most evident in the fish dishes and soup ##s .	soup ##s	POS
+behind this counter , two men are squeezed in .	counter	NEG
+fabulous decor - makes you feel like you & ap ##os ; re in a trend ##y manhattan restaurant , very very good food , cheap ##ly @ - @ priced , generally friendly staff , and if you & ap ##os ; re a manhattan ##ite , or spend most of your time in manhattan , rice avenue will make you feel at home . . . . . very soho / village / upper west side minus the expensive prices and pre ##ten ##tious client ##ele . . . . . all on roosevelt avenue !	food	POS
+the man that was hosting promised to save a table for our party of 7 , then sat a party of 2 at the very table he was saving ( mean while there were both ##s open all around ) .	table	NEG
+we decided to eat in tea room which was small and cute .	tea room	POS
+this place is great .	place	POS
+i am reluctant to write because i would not want my jem of a pizza place to become over ##crow ##ded .	pizza	POS
+the pest ##o pizza was excellent , thin @ - @ crust pizza with a nice amount of spicy italian cheese that i & ap ##os ; d never heard of before .	spicy italian cheese	POS
+the mu ##ssa ##man curry that i ordered was as thin as water and aside from the poorly fried to ##fu that i ordered in it , they gr ##acious ##ly provided me with one piece of poorly cooked potato .	potato	NEG
+th ##ius is a must for anyone who loves sha ##bu @ - @ sha ##bu .	sha ##bu @ - @ sha ##bu	POS
+service , however , was excellent . . . and i liked the setting / atmosphere a lot .	setting / atmosphere	POS
+good crowd , good outdoor seating , with a hip japanese vibe .	vibe	POS
+good bag ##els and good cream cheese .	cream cheese	POS
+i recently went to this restaurant with some co @ - @ workers for lunch and had an amazing time .	restaurant	POS
+good luck getting a table .	getting a table	NEG
+i highly recommend cafe st . bart & ap ##os ; s for their food , the am ##bie ##nce and wonderful service .	am ##bie ##nce	POS
+upon entering , we were greeted by the owners , steven and frederick , who went out of their way to be more than gr ##acious hosts .	owners	POS
+the service , however , was a bright flower in a garden .	service	POS
+the service is fantastic .	service	POS
+the price was extremely reasonable for the app ##eti ##zers and food we ate .	price	POS
+next time , we wouldn & ap ##os ; t dare ordering anything else other than some simple asian app ##eti ##zers and drinks .	asian app ##eti ##zers	POS
+the menu choices are similar but the taste lacked more flavor than it looked .	flavor	NEG
+if anyone ##s has doubt of not knowing enough about wines , please check their wine list .	wine list	POS
+we split a ta ##sty vegetable sam ##osa and the mala ##i ti ##kka wrap .	vegetable sam ##osa	POS
+the waitress suggested glasses of wine that went very well with the food .	waitress	POS
+on the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and am ##bian ##ce that is on par with alain duc ##asse , and food that will outs ##hine in present ##ai ##on , taste , choice , quality and quantity .	quality	NEG
+dessert is a joke . . . don ##t bother	dessert	NEG
+all my co @ - @ workers were amazed at how small the dish was .	dish	NEG
+this is my first time writing a review for a restaurant because the food and service was excellent .	food	POS
+my wife and i also enjoyed the spin ##ach , the shanghai low mein , and other attractions .	spin ##ach	POS
+during the course of the past 3 months , the chef and staff changed and it was not for the better .	chef	NEG
+try their plain pizza with fresh garlic or egg ##pl ##ant .	garlic	POS
+those rolls were big , but not good and sash ##imi wasn & ap ##os ; t fresh .	sash ##imi	NEG
+the food was authentic .	food	POS
+we love the food , drinks , and atmosphere !	atmosphere	POS
+so much more than the usual bar food , go there to enjoy the menu while sampling one of their hand @ - @ crafted beers .	hand @ - @ crafted beers	POS
+the restaurant looks out over beautiful green lawn ##s to the hudson river and the statue of liberty .	restaurant	POS
+the food portions are really large .	food portions	POS
+to begin , we were told there was a 30 minute wait and started to leave , when the hostess offered to call us on our cell phone when the table was ready .	wait	NEG
+three courses - choices include excellent mu ##ssel ##s , puff pastry goat cheese and salad with a delicious dressing , and a hang ##er steak au po ##iv ##re that is out of this world .	salad with a delicious dressing	POS
+great food , great lay out and awesome service .	service	POS
+the photo ##book menu was a cute touch , certainly helped my group and i pick the fried chicken , pork chop , and no ##odle dishes that we all ordered .	menu	POS
+i love to visit murray ##s for my bag ##el fix .	bag ##el	POS
+though you will undoubtedly be seated at a table with what seems like barely enough room ( no matter what the size of your party ) , the warm atom ##osphere is worth the cramped quarters - you & ap ##os ; ll have fun and forgot about the tight spot you & ap ##os ; re in .	room	NEG
+two complaints - their app ##eti ##zer selection stink ##s , it would be nice to get some mo ##zza ##rella sticks on the menu .	app ##eti ##zer selection	NEG
+i had a terrific meal , and our server guided us toward a very nice wine in our price range , instead of allowing us to purchase a similarly priced wine that wasn & ap ##os ; t as good .	server	POS
+the staff was acc ##omo ##dating , the food was absolutely delicious and the place is lovely .	place	POS
+they offer the same menu but have creative drinks that are loaded with alcohol and cheek ##y names - - but they do cost you .	drinks	POS
+even though the restaurant was packed , we were seated promptly and even asked for a table upstairs with no problems .	seated	POS
+when you & ap ##os ; re sitting in their main dining room ( which has a spectacular , hand @ - @ painted high ceiling ) you & ap ##os ; d never know there was a world outside .	ceiling	POS

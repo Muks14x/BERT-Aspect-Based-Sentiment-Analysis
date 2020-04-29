@@ -1,0 +1,1 @@
+{"bert_model": "bert-base-uncased", "do_lower": true, "max_seq_length": 128, "num_labels": 6, "label_map": {"1": "O", "2": "B-TARGET", "3": "I-TARGET", "4": "[CLS]", "5": "[SEP]"}}

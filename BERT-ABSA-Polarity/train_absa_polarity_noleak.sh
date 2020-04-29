@@ -1,0 +1,13 @@
+python train.py \
+--data_dir '../restaurant_dataset/processed_polarity_prediction_dedup_noleak' \
+--bert_model 'bert-base-uncased' \
+--task_name 'absa_polarity_classification' \
+--output_dir 'dumped/ABSA_Polarity_Prediction_Dedup_Noleak/checkpoint_dir' \
+--output_dir_bestmodel 'dumped/ABSA_Polarity_Prediction_Dedup_Noleak/best_model_dir' \
+--do_train \
+--do_eval \
+--do_lower_case \
+--train_batch_size 32 \
+--eval_batch_size 8 \
+--learning_rate 5e-5 \
+--num_train_epochs 50
