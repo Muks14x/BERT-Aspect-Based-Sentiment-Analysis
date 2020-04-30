@@ -1,0 +1,14 @@
+valid:
+             precision    recall  f1-score   support
+
+     TARGET     0.7645    0.8083    0.7857      1309
+
+avg / total     0.7645    0.8083    0.7857      1309
+
+test:
+             precision    recall  f1-score   support
+
+     TARGET     0.7616    0.8452    0.8012      1731
+
+avg / total     0.7616    0.8452    0.8012      1731
+

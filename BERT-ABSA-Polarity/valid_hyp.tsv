@@ -1,0 +1,421 @@
+sentence	target	true	pred
+The decor is dark , cool and soothing , while the food &apos;s presentation is spectacular , considering the low prices .	prices	1	0
+Great sushi experience .	sushi	1	1
+We figured we never had Argentinian Pizza before so we grabbed our lunch there , sharing a large Pelligrino , a pizza of two of their specials , one was goat cheese the other blue cheese , and both were excellent .	Pelligrino	1	1
+Diner food at bistro prices is a bummer ....	prices	0	0
+Ummm ... the beer was cold .	beer	1	0
+A great place to meet up for some food and drinks ...	place	1	1
+Quite frankly , this is some of the worst sushi I have ever tried .	sushi	0	0
+This is a cute place and could be good but they need to get their act together .	place	1	1
+This place has the the correct ambience and an excellent staff to make you feel like a guest and a friend at the same time .	ambience	1	1
+My entree of hot pot with seafood was full of imitation crabmeat with a couple pieces of shrimp and squid , and was unnecessarily heated with a burner .	entree	1	0
+The waiters were not attentive except that the bill turned up on the table before we were finished .	bill	0	0
+Other than being a little crowded and a bit overpriced , the atmosphere is filled with energy ( and the beautiful people of course ) and the food was surprising good !	food	1	1
+Thalia is a beautiful restaurant with beautiful people serving you , but the food doesn &apos;t quite match up .	Thalia	1	1
+I recommend the garlic shrimp , okra ( bindi ) , and anything with lamb .	lamb	1	1
+The drinks are always welll made and wine selection is fairly priced .	drinks	1	1
+The dining room is quietly elegant with no music to shout over -- how refreshing !	dining room	1	1
+It &apos;s a nice place to relax and have conversation .	place	1	1
+The drinks are always welll made and wine selection is fairly priced .	priced	1	1
+We had a great time at the Jekyll and hyde Pub last night .	Jekyll and hyde Pub	1	1
+My boyfriend and I recently had an early dinner at Artisanal and was satisfied with our experience .	dinner	1	1
+The service was terrible , we had to wait for everything and ask several of different people for the same thing before we were allowed to be served .	service	0	0
+The wine is always good , the tapas are always yummy , especially with the warm pita bread .	tapas	1	1
+Thank You Emilio .	Emilio	1	1
+This restaurant is VEGETARIAN ; there are NO MEAT dishes whatsoever .	dishes	0	0
+The people with carts of food don &apos;t understand you because they don &apos;t speak English , their job is to give you the delicious food you point at .	food	1	0
+Also , don &apos;t plan on asking for your favorite roll , if it &apos;s not on the menu , you can &apos;t have it .	menu	0	0
+The food was pretty good , but a little flavorless and the portions very small , including dessert .	portions	0	0
+The garlic mashed potatoes are hands down the best in the city !	garlic mashed potatoes	1	1
+Best of all is the warm vibe , the owner is super friendly and service is fast .	service	1	1
+While this is a pretty place in that overly cute French way , the food was insultingly horrible .	food	0	0
+We were told that they were booked solid and no other table was available .	table	0	0
+I must warn the reader that the portions sizes are very small ( especially the appetizers ) , so if you plan to eat until you are full and do not intend to order the chef &apos;s special tasting menu , prepare to order and pay for an appetizer ( 1 dish for each person because the portions are not for sharing ) , a main entree , and the cold udon at the end of the meal .	chef	1	0
+Traditional French decour was pleasant though the hall was rather noisy - the restaurant was full and we had to raise our voices to be able to maintain a conversation .	Traditional French decour	1	1
+We had champagne and caviar and felt like princesses !	champagne	1	1
+The menu is very limited - i think we counted 4 or 5 entrees .	menu	0	0
+Haru serves very fresh fish , has a trendy , modern ambiance , prime location on Park Avenue South and friendly service .	ambiance	1	1
+All the money went into the interior decoration , none of it went to the chefs .	chefs	0	1
+The blond wood decor is very soothing , the premium sake is excellent and the service is great .	sake	1	1
+I almost hesititate to write a review because the atmosphere was so great and I would hate for it too become to crowded .	atmosphere	1	1
+The blond wood decor is very soothing , the premium sake is excellent and the service is great .	blond wood decor	1	1
+Try the sea bass .	sea bass	1	1
+A narrow corridor leads to a tiny space where there are three tiny white tiled counters , a great deal of mess ( stacks of bottles , cans ) and a small counter holding 12 @-@ 14 entrees .	counter	0	0
+The have over 100 different beers to offer thier guest so that made my husband very happy and the food was delicious , if I must recommend a dish it must be the pumkin tortelini .	food	1	1
+Because we didn &apos;t have a reservation , we could only sit in the back garden , but it was great , secluded and perfect in nice weather .	reservation	0	1
+DO not try unless you &apos;re just going there to hang out like the rest of the hipsters who apparently have no sense of taste .	taste	0	0
+I really like both the scallops and the mahi mahi ( on saffron risotto @-@ yum ! ) .	mahi mahi ( on saffron risotto	1	1
+The sauce on the pizza is sooo good with garlic and fresh tomatoes and they don &apos;t skimp .	fresh tomatoes	1	1
+Whether it &apos;s the parmesean porcini souffle or the lamb glazed with balsamic vinegar , you will surely be transported to Northern Italy with one bite .	parmesean porcini souffle	1	1
+As we were sitting eating the subpar food the manager proceeded to berate a couple of his employees for putting out the wrong containers for condiments and explained to them how expensive these containers were .	food	0	0
+It won &apos;t break the bank but I also wouldnt come back for the food .	food	0	0
+The plain pizza was soggy and the creative wild mushroom ( third generation @-@ Fornini ) pizza we had was drenched with truffle oil in the middle ( again making it soggy ) and nothingon the rest .	wild mushroom ( third generation @-@ Fornini ) pizza	1	0
+All of my co @-@ workers stated that the food was amazing and wondered why they hadn &apos;t heard about this place .	food	1	1
+For some reason , all the seafood on the menu was unavailable except for the Salmon .	menu	0	0
+Food is usually very good , though ocasionally I wondered about freshmess of raw vegatables in side orders .	raw vegatables in side orders	0	0
+Though you will undoubtedly be seated at a table with what seems like barely enough room ( no matter what the size of your party ) , the warm atomosphere is worth the cramped quarters- you &apos;ll have fun and forgot about the tight spot you &apos;re in .	spot	0	0
+I had the Pad Thai and the noodles were sticky .	noodles	0	0
+limited menu , no @-@ so @-@ fresh ingredients , thinly @-@ sliced fish , fall @-@ apart rice .	rice	0	0
+The fish is fresh but the variety of fish is nothing out of ordinary .	variety of fish	0	1
+Price and quality of fish alone will keep us from making a return visit .	Price	0	0
+I am relatively new to the area and tried Pick a bgel on 2nd and was disappointed with the service and I thought the food was overated and on the pricey side .	service	0	0
+The food was great .	food	1	1
+Service was devine , oysters where a sensual as they come , and the price can &apos;t be beat ! ! !	price	1	1
+Service is highly refined : our seating was delayed 35 minutes past our reservation and the maitre d &apos; apologized and regularly kept us apprised of progress .	Service	1	0
+I recieved prompt service with a smile .	service	1	1
+Big Wong is a great place to eat and fill your stomach .	Big Wong	1	1
+The food &apos;s as good as ever .	food	1	1
+It is the type of place to run into old friends and have a late , raucus dinner .	dinner	1	1
+Service is highly refined : our seating was delayed 35 minutes past our reservation and the maitre d &apos; apologized and regularly kept us apprised of progress .	maitre	1	0
+The pizza was delivered cold and the cheese wasn &apos;t even fully melted !	pizza	0	0
+I found the food to be outstanding , particulary the salmon dish I had .	food	1	1
+This tiny restaurant is as cozy as it gets , with that certain Parisian flair .	restaurant	1	1
+I won &apos;t go back unless someone else is footing the bill .	bill	0	0
+Incredible food at a very agreable price brings me back just about every other day to this authentic Thai restaurant .	price	1	1
+Plus , on Wednesday nights the house wine is unlimited !	house wine	1	1
+If you &apos;re not familiar with the cuisine , you may encounter problems ordering here and be sure to bring plenty of cash with you as they don &apos;t accept credit cards .	cuisine	0	0
+The food is mostly made from scratch , fresh and well prepared .	food	1	1
+The food is definitely good , but I left a bit disappointed .	food	1	1
+Simple comfort food and what hot and lage portions .	comfort food	1	1
+Our family never expected such incredible entertainment in a restaurant .	entertainment	1	1
+Other than being a little crowded and a bit overpriced , the atmosphere is filled with energy ( and the beautiful people of course ) and the food was surprising good !	atmosphere	1	1
+The pizza is delicious and the proprietor is one of the nicest in NYC .	pizza	1	1
+It &apos;s boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor .	tuna	0	0
+The steak was very fatty and the sauce was overpowering and not very tasty .	steak	0	0
+When my dessert came , there was a candle in it - not because anyone asked for one - but because the waiter must have seen me opening my birthday card and gift , and said he knew it was a special occassion of some sort .	waiter	1	0
+If you are in search of the most authentic NYC deli experience look no further than the famous and historic Katz &apos;s Deli down on the Lower East Side .	deli	1	1
+Their tuna tartar appetizer is to die for .	tuna tartar appetizer	1	1
+Every course was better than the next .	course	1	1
+INCREDIBLY POOR SERVICE AN FOOD QUALITY AT EXORBITANT PRICES .	PRICES	0	0
+The decor is night tho ... but they REALLY need to clean that vent in the ceiling ... its quite un @-@ appetizing , and kills your effort to make this place look sleek and modern .	decor	1	0
+All the appetizers and salads were fabulous , the steak was mouth watering and the pasta was delicious ! ! !	salads	1	1
+I was back @-@ to @-@ back with the diner at the table behind me and wait staff had to hoist trays over our heads as they squeezed past us again and again .	wait staff	0	0
+The food was exceptional .	food	1	1
+Warm , comfortable surroundings , nice appointments ( witness the etched glass and brickwork separating the dining rooms ) .	surroundings	1	1
+The food here does a great service to the name ( Cantonese that is ... ) .	food	1	1
+The mussels were fantastic and so was the dessert ... definitely going to be back very soon .	mussels	1	1
+First , the waiter who served us neglected to fill us in on the specials , which I would have chosen had I known about them .	specials	1	0
+Decor is charming .	Decor	1	1
+Friendly and informative staff , very attentive and prompt raw bar service .	bar service	1	1
+The sandwiches are dry , tasteless and way overpriced .	sandwiches	0	0
+Solid wine list , knowledgeable staff , friendly owners and an adventurous , ever @-@ changing menu keep us coming back .	owners	1	1
+Ambiance is barely romantic but management tries .	management	1	0
+The place is larger than most and features adequate seating unlike most joints , and has a bar which deserves a mention .	seating	1	1
+We were seated promptly as we had reservations , however after that the service was slow .	reservations	1	0
+Despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .	food art	1	1
+After the main course came , we didn &apos;t see our waiter for at least 40 MINUTES !	waiter	0	0
+delicious simple food in nice outdoor atmosphere .	outdoor atmosphere	1	1
+night without a reservation , we had to wait at the bar for a little while , but the manager was so nice and made our wait a great experience .	manager	1	1
+Went there with my wife and we had to wait for a table even though you could see there many that were empty with not reservation sigh on them .	table	0	0
+I had a huge pastrami sandwich on a roll .	pastrami sandwich	1	1
+Where tanks in other Chinatown restaurants display a lurking myriad of sad @-@ looking marine life in their murky waters , the tanks at Ping &apos;s are clear as glass with healthy @-@ looking creatures who do not yet know that they will be part of some dim sum lover &apos;s brunch .	tanks	1	1
+First off , the waitress was completely unattentive the 2 times we saw her ( odd in a restaurant with 6 tables ) and got our order wrong .	waitress	0	0
+Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt @-@ in @-@ your @-@ mouth experience ) .	Food	1	1
+the turkey burgers are scary !	turkey burgers	0	0
+The chicken and steak were seasoned and cooked to perfection , and the lamb sandwhich is great for heartier appetites .	lamb sandwhich	1	1
+Incredible food at a very agreable price brings me back just about every other day to this authentic Thai restaurant .	food	1	1
+The food is usually good but it certainly isn &apos;t a relaxing place to go .	food	1	1
+We arrived on time for our reservation and seated promptly.The	reservation	1	1
+Try the mediterranean salad , it is a true experience for your taste buds ! !	mediterranean salad	1	1
+Ambiance is barely romantic but management tries .	Ambiance	0	0
+I had been a regular due to the consistently good food and ease of getting a table .	getting a table	1	1
+Great service , great food .	food	1	1
+The decor is vibrant and eye @-@ pleasing with several semi @-@ private boths on the right side of the dining hall , which are great for a date .	decor	1	1
+This is a consistently great place to dine for lunch or dinner .	dine	1	1
+The service was attentive without being overbearing and each dish we tried was wonderful from the spring rolls to the cod with pineapple tempura .	spring rolls	1	1
+Haru serves very fresh fish , has a trendy , modern ambiance , prime location on Park Avenue South and friendly service .	location	1	1
+But don &apos;t ever order bacon late at nite ( either platter or in sandwiches , for that matter don &apos;t from any take out place ) as it is from the morning frying turns out hard almost like bacos , hurt my molars .	in sandwiches	0	0
+The flavors are great , and the menu is extensive .	menu	1	1
+Right off the major deegan you get ladies from all over the city .	ladies	1	0
+They are served with a free appetizer and the portions are perfect for lunch .	appetizer	1	1
+They came out over cooked and the cheese was almost non existant .	cheese	0	0
+Great food , great prices , great service .	food	1	1
+The wine selection ( by the glass and bottle ) is wonderful and I always recommend that friends make a reservation if they &apos;re going to be in town .	wine selection	1	1
+The ambiance is minimal the food is not phenomenal , but some dishes are quite good , such as the eggplant parmesan , veal in carozza chicken saltimbocca .	ambiance	1	1
+The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .	outdoor atmosphere	1	1
+would have rather tried terrace in the sky or water club for that price	price	0	0
+The food was amazing , the service was so attentive and personable , and how about that ambience !	food	1	1
+The dim sum is delectable while the prices are quite easy on the wallet .	prices	1	1
+I wasn &apos;t thrilled to have to wait on line for thirty minutes , but I guess that &apos;s the price you pay for a popular place .	wait	0	0
+The cold appetizer dishes taste like the way I remember them to taste when I was growing up in Taiwan .	cold appetizer dishes	1	1
+The quail was fantastic and unique and the pastas were full of flavor .	quail	1	1
+I recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .	stir fry blue crab	1	1
+The restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal	meal	1	1
+Authentic food and they have REAL service , not just the rush you get sometimes when they try to push you out the door .	service	1	1
+this is the best secret place in midtown &apos; , I heard that from the bartender , after having brilliant food ( try steak with portobello mushrooms ) and drinks on the bar last Tuesday .	drinks	1	1
+The place &apos;s decor and hidden bathrooms made for a good laugh .	hidden bathrooms	1	1
+They also have a back garden open in the summer - cute and French with outdoor seating - what more could you ask for ?	back garden	1	1
+The food was delicious ( I had a halibut special , my husband had steak ) , and the service was top @-@ notch .	steak	1	1
+More important , the sushi rivals the best in Tokyo .	sushi	1	1
+Yes you have to wait to be seated and because its small there is no waiting area and the seat at the bar was all taken .	wait	0	0
+Although the tables may be closely situated , the candle @-@ light , food @-@ quality and service overcompensate .	service	1	1
+Fabulous decor - makes you feel like you &apos;re in a trendy Manhattan restaurant , very very good food , cheaply @-@ priced , generally friendly staff , and if you &apos;re a Manhattanite , or spend most of your time in Manhattan , Rice Avenue will make you feel at home ..... very Soho / Village / Upper West Side minus the expensive prices and pretentious clientele ..... all on Roosevelt Avenue !	Rice Avenue	1	1
+In fact , while leaving the place we saw two people looking at the menu , and I couldn &apos;t help telling them that the food was horrible .	food	0	0
+While the new restaurant still features much of the same classical furniture that made Tiffin so attractive , the menu has been overhauled .	menu	0	1
+It costs $ 2 extra to turn a regular roll into an inside @-@ out roll , but the roll more than triples in size , and that &apos;s not just from the rice .	roll	0	1
+The service was fast and friendly and the food was very tasty and they had the best hot sauce to add to your meals .	hot sauce	1	1
+Been going here since it opened have seen the quality value decrease considerably .	quality value	0	0
+There are much better places in NY with better prices .	prices	0	0
+the salads are delicious , both refreshing and very spicy .	salads	1	1
+The specials are usually quite good too .	specials	1	1
+This place is so much fun .	place	1	1
+And the food was fantastic .	food	1	1
+If you want some roast duck , pork or chicken on rice with ginger , try them out !	pork	1	1
+As always we had a great glass of wine while we waited .	glass of wine	1	1
+In reality ( to maximize potential diners ) they were still taking phone reservations and reallocating tables of those waiting in the lobby .	waiting	0	0
+The lobster sandwich is good and the spaghetti with Scallops and Shrimp is great .	lobster sandwich	1	1
+Service is extraordinary , yet not overbearing , and the decor brings a taste of trendy SoHo into Queens .	Service	1	1
+We didn &apos;t want a bottle of bubbly on a weekday so we each got little bottles of Korbett it was just enough .	bottles of Korbett	1	1
+I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	feel	1	1
+The place is a BISTRO which means : simple dishes and wine served efficiently in a bustling atmosphere .	atmosphere	1	1
+For the quality of food , a little too expensive .	quality of food	0	0
+What makes this restaurant special are the authentic sichuan cooking and being the only one in NYC that offers authentic chongqing hotpot .	sichuan cooking	1	1
+The food was delicious , the atmosphere was relaxed , and we have now adopted Plate 347 as our Secret on Second !	food	1	1
+My boyfriend had the New England Chowder it was good but I think the award should go to the Lobster Bisque .	New England Chowder	1	1
+Everything was wonderful ; food , drinks , staff , mileau .	food	1	1
+My co @-@ workers had to wait almost an hour for delivery , only to discover that what they got was not what they ordered .	delivery	0	0
+I cannot imagine a friendlier staff working in a restaurant .	staff	1	1
+Salads are a delicious way to begin the meal .	meal	1	1
+The menu choices are similar but the taste lacked more flavor than it looked .	taste	0	0
+I have been a longtime fan of Holy Basil in the East Village , and while I do believe their food has slightly slipped in quality , I have been hesitant to be disloyal .	food	0	0
+The signs , the specials menus , food , and even all the waitstaff are ALL TOTALLY Japanese .	specials menus	1	1
+I absolutely love this place ! ! !	place	1	1
+you can actually get 2 salads worth if u take it home and add it to some lettuce !	salads	0	1
+A gentleman , maybe the manager , came to our table , and without so much as a smile or greeting asked for our order .	gentleman	0	0
+Its a nice quiet location to go eat a good meal , relax , be able to talk and have a very good time .	location	1	1
+We are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .	ceviche mix ( special )	1	1
+This is one great place to eat pizza more out but not a good place for take @-@ out pizza .	take @-@ out pizza	0	1
+Simply some good tasting Chinese food at incredible prices ...	Chinese food	1	1
+Knowledge of the chef and the waitress are below average .	chef	0	0
+Their sake martini is wonderful .	sake martini	1	1
+On the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse , and food that will outshine in presentaion , taste , choice , quality and quantity .	choice	0	0
+Even if the food wasn &apos;t this good , the garden is a great place to sit outside and relax .	garden	1	1
+Haru on Park S is simply disgusting .	Haru on Park S	0	0
+The restuarant itself is not large , but seems to have several round tables to accomodate large groups hoping to save a buck to eat authentic Taiwanese .	round tables	1	1
+While Sapphire is certainly not lacking in ambiance , and probably has the best decor of any Indian restaurant I have been to in New York City , the food was not what I had hoped for .	decor	1	1
+The menu changed , portions were even smaller than before , a lentil dish was salty beyond edibility , a basmati rice dish lacked flavor .	portions	0	0
+I went at 6 : 00 PM specifically for the pre @-@ theater menu ( $ 19.95 for roasted tomato soup with chevre , steak frites , creme brulee ) and it was marvelous .	creme brulee	1	1
+The ambience is very romantic and definitely a good place to bring a date .	place	1	1
+Little Tonino &apos;s is just awesome , our favorite delivery place in Kennsington , honestly the best Gnochi I have ever had !	Gnochi	1	1
+I choose to go with one of the special , the braised lamb shank in red wine , which was excellent .	braised lamb shank in red wine	1	1
+The food was amazing , and the service was prompt and helpful , but not over @-@ bearing or rushed .	service	1	1
+The food here does a great service to the name ( Cantonese that is ... ) .	Cantonese	1	1
+Food was very good as well , considering that we tried the budget selection ( though I wish the pork belly that I ordered was roasted a bit longer , so that fat was more of a melt @-@ in @-@ your @-@ mouth experience ) .	fat	0	0
+Leon is an East Village gem : casual but hip , with well prepared basic French bistro fare , good specials , a warm and lively atmosphere .	atmosphere	1	1
+Decor is nice though service can be spotty .	service	0	0
+They charge different prices all the time .	prices	0	0
+I take all my NYC guests to VT &apos;s .	VT &apos;s	1	1
+Good bagels and good cream cheese .	bagels	1	1
+being a fan of spicy ethnic foods , indian included , i made friends with this place long ago .	spicy ethnic foods	1	1
+I had been a regular due to the consistently good food and ease of getting a table .	food	1	1
+Service , however , was excellent ... and I liked the setting / atmosphere a lot .	Service	1	1
+The Halibut was too salty , dessert was so so ( don &apos;t waste any of your calories ) and service was poor .	service	0	0
+The chicken parm was edible but had canned tomato sauce and boxed pasta and the chicken with portobello mushrooms consisted of dry , inedible chicken with terrible sauce .	sauce	0	0
+The service , wine selection , ambiance are all outstanding and deserve recognition .	wine selection	1	1
+His wife Tanya , the hostess , completes the comforting atmosphere by being delightfully warm and gracious .	hostess	1	1
+Barbecued codfish was gorgeously moist - as if poached - yet the fabulous texture was let down by curiously bland seasoning - a spice rub might have overwhelmed , however herb mix or other sauce would have done much to enhance .	sauce	0	0
+It is kinda nosiy and the tables are close together but it &apos;s still a beautiful place to enjoy a nice dinner .	place	1	1
+The staff was very attentive , the ambience lovely , and the food superb .	ambience	1	1
+They were very abrupt with me when I called and actually claimed the food was late because they were out of rice .	food	0	0
+go here for the drinks !	drinks	1	1
+Waiters tend to forget drinks completely , food portions are so tiny , two people have trouble sharing one entree .	entree	0	0
+Anyway , the food is good , the price is right and they have a decent wine list .	wine list	1	1
+If you go , try the marinara / arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ..... everything is just delicious .	mozzarella en Carozza	1	1
+The soup for the udon was soy sauce and water .	soup for the udon	0	1
+Good crowd , good outdoor seating , with a hip japanese vibe .	outdoor seating	1	1
+but the service was a bit slow .	service	0	0
+I had the tuna tartare with sake , mushroom ravioli with pinot noir , and the chocolate sampler with a dessert wine for $ 49 .	tuna tartare	1	1
+( and I have eaten my share ) Which impresses me for having such a large amount of people to serve .	serve	1	1
+Best drumsticks over rice and sour spicy soup in town !	sour spicy soup	1	1
+I had the salmon dish and while it was fine , for the price paid , I expected it to have some type of flavor .	flavor	0	1
+I have eaten there 3 @-@ 4 times and the food was always good .	food	1	1
+Great bagels , spreads and a good place to hang out in .	bagels	1	1
+( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .	bottle of wine	0	0
+Plus , when our entrees were held up in the kitchen on a busy Saturday night , the owner sent over complimentary summer rolls to hold us over !	summer rolls	1	1
+honestly the worst sushi my husband and i had in our entire lives .	sushi	0	0
+instead ordered an ice cold beer which to me works with indian .	beer	1	1
+Service is friendly , prices are good - delivery time was a little slow , but for the way this pizza tastes , I &apos;m willing to overlook it .	Service	1	1
+I had the black cod with yuzu sauce , which was wonderful .	black cod with yuzu sauce	1	1
+NO more reservations , expensive tips and annoying stuff .	stuff	1	1
+The wine list isn &apos;t great , and the desserts are shipped in from Bruno &apos;s down the street , which is not as good as it used to be .	desserts	0	0
+The steak was excellent and one of the best I have had ( I tasted the butter intitally but in no way did it overwhelm the flavor of the meat ) .	meat	1	0
+The bruschetta and panini &apos;s are so yummy !	bruschetta	1	1
+If the omakase is to showcase technique and variety , serving almost 40 % of items BBQ @-@ ed and a spicy tuna roll wrapped with not @-@ so @-@ fresh nori seems to be a rather limp performance .	nori	0	0
+But the best part about LS is the late night atmosphere , delightfully free of the BTs .	atmosphere	1	1
+The food is good , especially their more basic dishes , and the drinks are delicious .	dishes	1	1
+We were well attended to by the enthusiastic staff especially the manager Tony Gaskin who made excellent suggestions for our menu selections .	staff	1	1
+However , go for the ambience , and consider the food just a companion for a trip across the world !	food	0	1
+For the next hour and a half we stood in the crowded lobby area of this touristy restaurant listening to all types of explanations of why we were not being seated .	lobby area	0	0
+The food inludes famous scrumptious bombay style chaat such as bhelpuri , sevpuri and samosa chaats , as well as other great indian appetizers .	bhelpuri	1	1
+The restaurant has a Family feel , not least with regard to the portions which are enormous ; the veal alone could have single @-@ handedly solved third world famine .	feel	1	1
+After 2 tries by the waiter to take it away ( we hadn &apos;t even looked at it yet , we had full beers yet to drink ) , the manager approached and told us they needed the table for people with reservations .	manager	0	1
+Our friendly server made great food suggestions and also sent both the sommelier and the fromager to the table to help suggest different pairings for wine and cheese .	server	1	1
+Friendly and informative staff , very attentive and prompt raw bar service .	staff	1	1
+the real kicker of the menu , however , is the beef cubes or the chicken with chili and lemon grass .	chicken with chili and lemon grass	1	1
+Patroon features a nice cigar bar and has great staff .	cigar bar	1	1
+The staff makes you feel at home , the food is great and the atmosphere is WONDERFUL !	staff	1	1
+The pickles were great addition .	pickles	1	1
+my picks : Guizhou chicken , fish with hot bean source , fish fillet in spicy source ( special menu ) .	fish fillet in spicy source	1	1
+I &apos;m not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and I all enjoy Mizu very much ... and we &apos;re repeat customers .	Mizu	1	1
+This place is a great stop for great food .	food	1	1
+I didn &apos;t expect to like Nosh as much as I did , but the pastrami on challah sandwich I had was otherworldly , the soups are like Mom &apos;s , and the knishes give Yonah Schimmel &apos;s a run for its money .	pastrami on challah sandwich	1	1
+The calamari comes with an incredible sauce , and the duck noodles are yummy as well .	sauce	1	1
+They had scrapped the bottom of the vessel in which they make the rice -RESULT - WE HAD LARGE CHUNKS OF BURNT RICE IN OUR SERVING BOWL .	RICE	0	0
+This place would be so much better served by being run by a group that actually understands customer service .	served	0	0
+May , the owner always has a smile on her and will warmly greet you .	owner	1	1
+The service is awful--the last time I was there ( and I do mean the last time ) we were told that they needed our table so we would have to leave .	table	0	0
+The place is a lot of fun .	place	1	1
+With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .	pepper	0	0
+The porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .	porcini mushroom pasta special	0	0
+Our son loves pizza and we have a certified Neapolitan pizzaria in our home city ( Seattle ) , we liked this nearly as much - and the differences were more about personal preference than any reflection on either restaurant .	pizza	1	1
+It &apos;s easy to get a table for a large group and you don &apos;t get hustled out .	table	1	1
+the drinks are amazing and half off till 8pm .	drinks	1	1
+It &apos;s great to go for a quick lunch either alone or with a friend .	lunch	1	1
+The food was very good , a great deal , and the place its self was great .	food	1	1
+Service was warm and attentive , beef carpaachio was exellent ( huge portion ) and pasta was fresh and well @-@ prepared .	pasta	1	1
+It is set far from the small street it &apos;s on , and there is no traffic noise .	traffic noise	1	1
+I am not a vegetarian but , almost all the dishes were great .	dishes	1	1
+The place is small and intimate and you may feel a little crowded , but the service is excellent and it &apos;s great for friends out , a romantic date , or a special occassion .	place	0	0
+I &apos;ve lived in NY for 5 years and this place has it all .	place	1	1
+This is the BEST Shabu @-@ Shabu Restaurant in the Try @-@ State Area .	Shabu @-@ Shabu Restaurant	1	1
+Delicious food , excellent service , and a pretty atmosphere make this a great choice for dinner and the $ 5.99 lunch buffet makes it an even better choice for lunch !	food	1	1
+The staff was knowledgeable and full of personality .	staff	1	1
+If you are someone who appreciates simplicity , elegance , and wonderfully presented and tasting seafood and vegetables regardless of portion size , Kai is your place .	portion size	0	1
+An excellent alternative to fast food joints and ordering in but , the food was slightly disappointing .	food	0	0
+I would recommend Roxy &apos;s for that , but not for their food .	food	0	1
+I am amazed by the poor reviews- I find this place to be standout Italian in an area flooded with Italian- great prices , great atmosphere , good service and a wonderful wine list .	wine list	1	1
+delicious bagels , especially when right out of the oven .	bagels	1	1
+The miso soup lacked flavor and the fish was unfortunately not as well prepared as in the past .	flavor	0	0
+Orsay , is a very pleasnt throw back to traditional French food , and French service as well .	French food	1	1
+You must have the crabmeat lasagna which is out of this world and the chocolate bread pudding for dessert .	chocolate bread pudding	1	1
+Try the spicy wontons and the salt pepper shrimps .	salt pepper shrimps	1	1
+In reality ( to maximize potential diners ) they were still taking phone reservations and reallocating tables of those waiting in the lobby .	tables	0	0
+Never in my life did I think that I could be satisfied both in taste and in quantity for $ 3.00 in NYC .	quantity	1	1
+Emilio , the owner , is often sitting in the front table greeting guests as they come and go .	owner	1	1
+We ran a little late for the reservation but it wasn &apos;t a problem to get our table immediately .	table	1	1
+Spreads and toppings are great - though a bit pricey .	Spreads	1	1
+The staff is also attentive and friendly .	staff	1	1
+I recommend this spot to anyone who enjoys fine cuisine at reasonable prices .	prices	1	1
+Terrific menu full of unique rolls and special dishes .	dishes	1	1
+The menu has lots of options : I hope to go back to try those potato pancakes .	menu	1	1
+The service was great as well .	service	1	1
+Each bite of food at Kai was indeed delicious , fresh , and elegant .	food	1	1
+Having discovered Ping &apos;s on the internet , we entered with qualms but were instantly put to ease by the fish tanks that greet you as u walk in .	fish tanks	1	1
+I have lived in Japan for 7 years and the taste of the food and the feel of the restaurant is like being back in Japan .	taste	1	1
+Baluchi &apos;s has solid food and a nice decor at reasonable prices .	prices	1	1
+The large selection of bruschettas , paninis , tramezzinis keep the palate from stagnating .	bruschettas	1	1
+The sushi seemed pretty fresh and was adequately proportioned .	sushi	1	1
+All conveniently delivered right to the door .	delivered	1	1
+Highly recommended is the Spicy Fried Clam Rolls and Spider Rolls .	Spicy Fried Clam Rolls	1	1
+If you want good authentic Thai this place is not the place to go .	Thai	0	0
+The fried dumplings are GREAT !	fried dumplings	1	1
+The prices cannot be beat for the quality , quantity , freshness and taste .	taste	1	1
+We always have a delicious meal and always leave feeling satisfied .	meal	1	1
+The food is wonderful , tasty and filling , and the service is professional and friendly .	food	1	1
+This big draw is the all you can sushi here for $ 19.95 !	sushi	1	1
+The drinks are a saving grace , but service staff , please , get over yourselves .	drinks	1	1
+The wine list is extensive and can easily hike up an otherwise reasonably priced meal .	priced	1	1
+- the bread at the beginning is super tasty and makes you want more - the pizza is delicious and comes in personal sizes , however be warned that the Peter &apos;s Favourite pizza with prosciutto and baby arugula is actually a margarite pizza with cold prosciutto and baby arugula on top , like a salad .	pizza	1	1
+I LOVE their Thai noodles with shrimp and chicken and coconut juice is the MUST !	Thai noodles with shrimp and chicken and coconut juice	1	1
+If you go , try the marinara / arrabiatta sauce , the mozzarella en Carozza is mmmmmmmm ..... everything is just delicious .	marinara / arrabiatta sauce	1	1
+sometimes i get bad food and bad service , sometimes i get good good and bad service .	service	0	1
+The first time I went , and was completely taken by the live jazz band and atmosphere , I ordered the Lobster Cobb Salad .	live jazz band	1	1
+I ordered a Chicken Teriyaki dish and found that the chicken was extremely dry .	chicken	0	0
+The food is delicious - from the specials to the regular menu @-@ fare , the dishes are never a disappointment .	regular menu @-@ fare	1	1
+Price and quality of fish alone will keep us from making a return visit .	quality	0	0
+They were such a rip @-@ off ( $ 8.95 for four small meat patties in steamed buns ) and not worth trying .	meat patties in steamed buns	0	0
+We could have made a meal of the yummy dumplings from the dumpling menu .	dumplings	1	1
+The portions are now very small , the sauces are overly @-@ ambitious usually inedible while the service is still good , the restaurant , due to its popularity , seems frantic .	sauces	0	0
+Our agreed favorite is the orrechiete with sausage and chicken ( usually the waiters are kind enough to split the dish in half so you get to sample both meats ) .	waiters	1	1
+The staff is excellent , specjal : that girl behind the bar , european chic .	staff	1	1
+The menu may be small , but everything on it is delicious .	menu	0	0
+Don &apos;t judge this place prima facie , you have to try it to believe it , a home away from home for the literate heart .	place	1	0
+The Waitstaff were very nice and suggested swordfish for my husband he enjoyed his meal .	meal	1	1
+The food here is rather good , but only if you like to wait for it .	food	1	1
+It was the first place we ate on our first trip to New York , and it will be the last place we stop as we head out of town on our next trip to New York .	place	1	1
+Jimmy &apos;s is hands down the hottest night spot in the Bronx .	spot	1	1
+If I could rate the people this place would be off the charts - unfortunately - the pizza , sorry - not the best in NYC .	people	1	0
+I like the somosas , chai , and the chole , but the dhosas and dhal were kinda dissapointing .	dhosas	0	0
+Patroon features a nice cigar bar and has great staff .	staff	1	1
+Frankly , when you compare what you can have here for lunch , versus McDs or so many other sandwich shops in the city , there is no comparison .	lunch	1	0
+Excellent spot for holiday get togethers with co @-@ workers or friends that you haven &apos;t seen in a while .	spot	1	1
+I &apos;m still mad that i had to pay for lousy food .	food	0	0
+Always great service !	service	1	1
+Top spot in town for Vietnamese classics , better than places that cost a lot more .	Vietnamese classics	1	1
+Not a great place for family or general dining .	place	0	0
+Very good service and very good prices .	prices	1	1
+I recently tried Suan and I thought that it was great .	Suan	1	1
+Right off the L in Brooklyn this is a nice cozy place with good pizza .	pizza	1	1
+We took advanatage of the half price sushi deal on saturday so it was well worth it .	half price sushi deal	1	1
+With the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .	lemon salad	0	0
+The bread is the soft paratha bread ( unlike the plain bread they use in Calcutta ) , and the stuffing is tandoori styled and very flavorful .	bread	0	1
+My steak au poivre was one of the worst I &apos;ve had .	steak au poivre	0	0
+I had the tuna tartare with sake , mushroom ravioli with pinot noir , and the chocolate sampler with a dessert wine for $ 49 .	dessert wine	1	1
+My wife and I ate here earlier this week and have not stopped ranting and raving about the food .	food	1	1
+the food was undercooked @-@ the sauce watery , and the vegetables raw .	food	0	0
+This restaurant is VEGETARIAN ; there are NO MEAT dishes whatsoever .	MEAT dishes	0	0
+She was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about Indian food .	dishes	1	1
+I really recommend the very simple Unda ( Egg ) rolls .	Unda ( Egg ) rolls	1	1
+one of the best Chicken Tikka Masala .	Chicken Tikka Masala	1	1
+Always a nice crowd , but never loud .	crowd	1	1
+The cafe itself was really nice with comfortable outdoor chairs and tables , but the service could have been better .	tables	1	1
+I thanked my friend who recommended me this restaurant and will certainly recommend it to others .	restaurant	1	1
+Then , get ripped on free box wine .	box wine	1	0
+Food was good not great not worth the wait or another visit	wait	0	0
+( $ 200 for 2 glasses of champagne , not too expensive bottle of wine and 2 after dinner drinks ) .	glasses of champagne	0	0
+Yet paired with such rude service , would never recommend for anyone interested in carrying any kind of conversation while there .	service	0	0
+I went at 6 : 00 PM specifically for the pre @-@ theater menu ( $ 19.95 for roasted tomato soup with chevre , steak frites , creme brulee ) and it was marvelous .	pre @-@ theater menu	1	1
+The place was nice and calm .	place	1	1
+The dim sum is ok but doesn &apos;t taste that fresh , and the little dishes don &apos;t look steamy hot as they should ( also note lack of Chinese here ) .	dim sum	0	0
+The food is authentic Italian - delicious !	food	1	1
+The service is descent even when this small place is packed .	service	1	0
+An oasis of refinement : Food , though somewhat uneven , often reaches the pinnacles of new American fine cuisine - chef &apos;s passion ( and kitchen &apos;s precise execution ) is most evident in the fish dishes and soups .	soups	1	1
+Behind this counter , two men are squeezed in .	counter	0	0
+Fabulous decor - makes you feel like you &apos;re in a trendy Manhattan restaurant , very very good food , cheaply @-@ priced , generally friendly staff , and if you &apos;re a Manhattanite , or spend most of your time in Manhattan , Rice Avenue will make you feel at home ..... very Soho / Village / Upper West Side minus the expensive prices and pretentious clientele ..... all on Roosevelt Avenue !	food	1	1
+The man that was hosting promised to save a table for our party of 7 , then sat a party of 2 at the very table he was saving ( mean while there were boths open all around ) .	table	0	0
+we decided to eat in tea room which was small and cute .	tea room	1	0
+This place is great .	place	1	1
+I am reluctant to write because I would not want my jem of a pizza place to become overcrowded .	pizza	1	1
+The pesto pizza was excellent , thin @-@ crust pizza with a nice amount of spicy Italian cheese that I &apos;d never heard of before .	spicy Italian cheese	1	1
+The mussaman curry that I ordered was as thin as water and aside from the poorly fried tofu that I ordered in it , they graciously provided me with ONE piece of poorly cooked potato .	potato	0	0
+Thius is a must for anyone who loves Shabu @-@ Shabu .	Shabu @-@ Shabu	1	1
+Service , however , was excellent ... and I liked the setting / atmosphere a lot .	setting / atmosphere	1	1
+Good crowd , good outdoor seating , with a hip japanese vibe .	vibe	1	1
+Good bagels and good cream cheese .	cream cheese	1	1
+I recently went to this restaurant with some co @-@ workers for lunch and had an amazing time .	restaurant	1	1
+Good luck getting a table .	getting a table	0	1
+I highly recommend Cafe St. Bart &apos;s for their food , the ambience and wonderful service .	ambience	1	1
+Upon entering , we were greeted by the owners , Steven and Frederick , who went out of their way to be more than gracious hosts .	owners	1	1
+The service , however , was a bright flower in a garden .	service	1	1
+The service is fantastic .	service	1	1
+The price was extremely reasonable for the appetizers and food we ate .	price	1	1
+Next time , we wouldn &apos;t dare ordering anything else other than some simple Asian appetizers and drinks .	Asian appetizers	1	1
+The menu choices are similar but the taste lacked more flavor than it looked .	flavor	0	0
+If anyones has doubt of not knowing enough about wines , please check their wine list .	wine list	1	1
+we split a tasty vegetable samosa and the malai tikka wrap .	vegetable samosa	1	1
+The waitress suggested glasses of wine that went very well with the food .	waitress	1	1
+On the other hand , if you are not fooled easily , you will find hundreds of restaurants that will give you service and ambiance that is on par with Alain Ducasse , and food that will outshine in presentaion , taste , choice , quality and quantity .	quality	0	0
+Dessert is a joke ... dont bother	Dessert	0	0
+All my co @-@ workers were amazed at how small the dish was .	dish	0	0
+This is my first time writing a review for a restaurant because the food and service was excellent .	food	1	1
+My wife and I also enjoyed the spinach , the Shanghai low mein , and other attractions .	spinach	1	1
+During the course of the past 3 months , the chef and staff changed and it was not for the better .	chef	0	0
+Try their plain pizza with fresh garlic or eggplant .	garlic	1	1
+those rolls were big , but not good and sashimi wasn &apos;t fresh .	sashimi	0	0
+The food was authentic .	food	1	1
+We love the food , drinks , and atmosphere !	atmosphere	1	1
+So much more than the usual bar food , go there to enjoy the menu while sampling one of their hand @-@ crafted beers .	hand @-@ crafted beers	1	1
+The restaurant looks out over beautiful green lawns to the Hudson River and the Statue of Liberty .	restaurant	1	1
+THE FOOD PORTIONS ARE REALLY LARGE .	FOOD PORTIONS	1	1
+To begin , we were told there was a 30 minute wait and started to leave , when the hostess offered to call us on our cell phone when the table was ready .	wait	0	0
+Three courses - choices include excellent mussels , puff pastry goat cheese and salad with a delicious dressing , and a hanger steak au poivre that is out of this world .	salad with a delicious dressing	1	1
+Great food , great lay out and awesome service .	service	1	1
+The photobook menu was a cute touch , certainly helped my group and I pick the fried chicken , pork chop , and noodle dishes that we all ordered .	menu	1	1
+I love to visit Murrays for my bagel fix .	bagel	1	1
+Though you will undoubtedly be seated at a table with what seems like barely enough room ( no matter what the size of your party ) , the warm atomosphere is worth the cramped quarters- you &apos;ll have fun and forgot about the tight spot you &apos;re in .	room	0	0
+Two complaints- their appetizer selection stinks , it would be nice to get some mozzarella sticks on the menu .	appetizer selection	0	0
+I had a terrific meal , and our server guided us toward a very nice wine in our price range , instead of allowing us to purchase a similarly priced wine that wasn &apos;t as good .	server	1	1
+The staff was accomodating , the food was absolutely delicious and the place is lovely .	place	1	1
+They offer the same menu but have creative drinks that are loaded with alcohol and cheeky names -- but they do cost you .	drinks	1	1
+Even though the restaurant was packed , we were seated promptly and even asked for a table upstairs with no problems .	seated	1	1
+When you &apos;re sitting in their main dining room ( which has a spectacular , hand @-@ painted high ceiling ) you &apos;d never know there was a world outside .	ceiling	1	1
